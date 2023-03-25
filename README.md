@@ -8,3 +8,5 @@ Basically, it consists of two parts:
 BackEnd part, which is responsible for handling admin management,
 and FrontEnd part, which is responsible for customer shopping, product reviews, etc.
 ![Users Page Screenshot](misc/images/users_page.png)
+    
+    "Users" page view
